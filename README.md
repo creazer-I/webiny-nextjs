@@ -22,7 +22,7 @@ Used cloudsearch to browse through the data given
 
 #### lambda + api gateway(CORS) + dynamoDB
 
-When creating the cms content, the data is uploaded to dynamoDb via [lambda function](https://github.com/creazer-I/webiny-nextjs#:~:text=db%2Dcloudsearch%2Ditem.py)
+When creating the cms content, the data is uploaded to dynamoDb via [lambda function](https://github.com/creazer-I/webiny-nextjs/blob/main/db-cloudsearch-item.py)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
