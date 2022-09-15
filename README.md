@@ -13,7 +13,7 @@ npm run dev
 
 or
  
-npx next run
+npx next dev
 ```
 
 #### cloudsearch +api gateway(CORS)
